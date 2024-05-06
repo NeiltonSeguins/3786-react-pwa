@@ -1,6 +1,6 @@
 ![Jornada Milhas](thumb.png)
 
-# Jornada Milahs
+# Jornada Milhas
 
 Explore o Jornada Milhas: seu guia de viagens para aventuras sem limites! Encontre inspiração, planeje suas jornadas e aproveite ofertas incríveis. Estamos em desenvolvimento e em breve, nossa funcionalidade PWA para acesso rápido em qualquer lugar!
 
