@@ -18,7 +18,7 @@ const Header = () => {
         <img src="/logo.svg" alt="ícone de uma bússola, logotipo do site" />
         <Styled.Nav>
           <Styled.Link href="#">Vender Milhas</Styled.Link>
-          <Styled.Link href="#">Styledobre</Styled.Link>
+          <Styled.Link href="#">Sobre</Styled.Link>
           <Button>Cadastre-se</Button>
           <Button $variant="secundario">Login</Button>
         </Styled.Nav>
